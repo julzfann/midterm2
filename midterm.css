@@ -1,0 +1,66 @@
+a {color:#660066;}
+
+a:visited{color:hotpink;}
+	
+a:hover{ color:red}
+
+.Duction{
+	font-family: "Courier New", Courier, monospace
+}
+
+
+.Logo{
+background-color:#fadadd;
+width: 200px;
+padding: 30px;
+margin: 20px;
+float: right;
+border: 2px dashed blue;
+font-family: "Courier New", Courier, monospace
+ }
+
+
+ .Contents{
+background-color:#fadadd;
+width: 100px;
+padding-right: 50px;
+margin: 10px;
+float: left;
+border: 2px dashed blue;
+font-family: "Courier New", Courier, monospace 
+}
+
+.Store{
+background-color: lightblue;
+width: 210px;
+height: 210px;
+margin-left:0px;
+padding-left: 10px;
+border: 10px dashed white;
+float: left;
+font-family: "Courier New", Courier, monospace
+}
+
+.History2{
+text-align:left;
+padding-top: 80px;
+font-family: "Courier New", Courier, monospace
+}
+
+#History{
+text-align: center;
+color:pink;
+}
+
+.Awards {
+	text-align:center;
+color: red;
+}
+
+
+
+#References {
+	text-align: center;
+}
+
+
